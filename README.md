@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vignesh
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python 
-- 🧰 Languages: C, SQL + T-SQL & Java
+- 👀 I’m interested in both data analysis and software development
+- 🌱 I’m currently learning Python 
+- 🧰 Languages: C, C++, SQL + T-SQL & Java
 - 📫 How to reach me https://www.linkedin.com/in/vignesh-manwani/
 
 <!---
