@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vignesh
-- 👀 I’m interested in both data analysis and software development
+- 👀 I’m interested in both data and software engineering
 - 🌱 I’m currently learning Python 
 - 🧰 Languages: HTML, CSS, C, C++, SQL + T-SQL & Java
 - 📫 How to reach me https://www.linkedin.com/in/vignesh-manwani/
